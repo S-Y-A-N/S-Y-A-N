@@ -1,5 +1,5 @@
-# Hello World!
-<!---
-S-Y-A-N/S-Y-A-N is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p> Hello World! </p>
+<div>
+  [![S-Y-A-N's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-Y-A-N)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
