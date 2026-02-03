@@ -4,7 +4,7 @@ I am a developer capable of doing web development work.
 **Working** on expanding my skills in web and mobile development to build scalable and effecient applications.
 **Planning** to learn more about systems/low-level programming in the near future.
 
-## Languages
+## ⚙︎ Languages and Technologies
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
