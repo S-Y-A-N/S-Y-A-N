@@ -1,4 +1,4 @@
-# Hello World! :)
+# ✧ Hello, World! :)
 
 I am a developer capable of doing web development work.
 **Working** on expanding my skills in web and mobile development to build scalable and effecient applications.
