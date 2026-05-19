@@ -1,8 +1,8 @@
-# ✧ Hello, World! :)
+# ✧ Hello, world! :)
 
 I am a developer capable of doing web development work.
-**Working** on expanding my skills in web and mobile development to build scalable and effecient applications.
-**Planning** to learn more about systems/low-level programming in the near future.
+I work on expanding my skills in web and mobile development to build scalable and effecient applications.
+Also, I plan to learn more about systems/low-level programming in the near future.
 
 ## ⚙︎ Languages and Technologies
 
